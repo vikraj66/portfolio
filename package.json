@@ -1,0 +1,16 @@
+{
+  "name": "html-css-js-portfolio-tutorial-2",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
